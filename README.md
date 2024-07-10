@@ -27,6 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username= EDE MANIN BABU<84&show_icons=true&locale=en" alt=" EDE MANIN BABU84<" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user= EDE MANIN BABU<84&" alt=" EDE MANIN BABU<84" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user= EDE MANIN BABU<84&" alt=" EDE MANIN BABU84<" /></p>
 
 - 📫 How to reach me **sai99647@gmail.com.com**
