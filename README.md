@@ -7,7 +7,9 @@
 <!---
 ManiBabuEde/ManiBabuEde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> <h1 align="center">Hi 👋, I'm EDE MANIN BABU</h1>
+---> 
+
+<h1 align="center">Hi 👋, I'm EDE MANIN BABU</h1>
 <h3 align="center">A passionate frontend developer from India Andhra Pradesh</h3>
 <img src="https://as1.ftcdn.net/v2/jpg/07/58/59/32/1000_F_758593266_6LsoqpF37OsCt4zhcAc2neT5qLHmXpDV.jpg" alt="img" />
 <p align='center'>💬 Ask me about React JavaScript HTML CSS Git GitHub</p>
